@@ -1,0 +1,6 @@
+// the configured options and settings for Template
+#define TEMPLATE_VERSION_MAJOR @template_VERSION_MAJOR@
+#define TEMPLATE_VERSION_MINOR @template_VERSION_MINOR@
+#define TEMPLATE_VERSION_PATCH @template_VERSION_PATCH@
+#define TEMPLATE_VERSION_TWEAK @template_VERSION_TWEAK@
+#cmakedefine USE_LIBRARY
